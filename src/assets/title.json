@@ -1,0 +1,11 @@
+{
+  "dasboard": {
+    "title": "Dashboard Test"
+  },
+  "heroes": {
+    "title": "Heores Test"
+  },
+  "heroes_details": {
+    "title": "Details test"
+  }
+}
